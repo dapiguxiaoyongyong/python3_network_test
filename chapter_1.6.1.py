@@ -5,6 +5,8 @@
 #TODO
 #ntol()把网络字节序转换成长整型主机字节序。 n表示网络 h表示主机 l表示长整型 s表示短整型
 
+
+
 import socket
 
 def convert_integer():
