@@ -1,6 +1,8 @@
 #！/usr/bin//env python3
+#-*- coding: utf-8 -*-
 #Python Network Programming Cookbook -- Chapter -1
 #This program is optimized forr Python 3.7. It may run on any other Python version with/without modifications.
+#获取设备名和IPv4地址
 
 import socket
 
