@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+#-*- coding: utf-8 -*-#! /usr/bin/env python3
 #-*- coding: utf-8 -*-
 #修改套接字发送和接收的缓冲区大小
 
